@@ -61,7 +61,7 @@ and refreshing the page, the flag was displayed.
 
 ## Flag
 
-`picoCTF{REDACTED}`
+`picoCTF{}`
 
 ## What I Learned
 
