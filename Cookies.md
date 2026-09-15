@@ -175,7 +175,7 @@ followed by the challenge flag.
 
 ### Burp Suite — Cookie Value 18
 
-![Burp Suite Cookie name=18 returning the flag](burp-cookie-18-flag.png)
+![Burp Suite Cookie name=18 returning the flag](burp-cookie-18-flag..png)
 
 The correct cookie value was therefore:
 
