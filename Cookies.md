@@ -139,7 +139,7 @@ This confirmed that the request was valid, but the value `17` did not reveal the
 
 ### Burp Suite — Cookie Value 17
 
-![Burp Suite testing Cookie name=17](burp-cookie-17.png)
+![Burp Suite testing Cookie name=17](burp-cookie-17..png)
 
 ---
 
