@@ -7,6 +7,6 @@ A collection of my cybersecurity Capture the Flag (CTF) challenge write-ups, sol
 | Challenge Name | Category | Difficulty | Write-up Link |
 | :--- | :--- | :--- | :--- |
 | Information Disclosure | Web / Enumeration | Easy | [View Write-up](./Information-Disclosure.md) |
-
+| Cookies | Web Exploitation | Easy | [View Write-up](Cookies.md) |
 ---
 *Created and maintained by Mohammed Al-Malki*
